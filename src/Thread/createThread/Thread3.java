@@ -5,9 +5,7 @@ import java.util.concurrent.Callable;
 
 /**
  * @author : WangRich
- * @Description : 通过实现Callable<Integer>接口实现多线程创建
- * 实现Callable接口好处：（1）有返回值  （2）能抛出异常
- * 缺点：线程创建比较麻烦
+ * @Description : 通过实现Callable<Integer>接口实现多线程创建  1.实现Callable接口好处：（1）有返回值  （2）能抛出异常     2.缺点：线程创建比较麻烦
  * @date : 2022/7/4 14:31
  */
 public class Thread3 implements Callable<Integer> {
