@@ -23,6 +23,7 @@ public class Test {
      */
     public static void throwException(int t) throws MyException {
         if (t < 10) {
+            //创建并抛出自定义异常类，传入异常显示信息
             throw new MyException("自定义异常抛出");
         }
     }
