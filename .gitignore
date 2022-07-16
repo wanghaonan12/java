@@ -22,7 +22,7 @@
 # Eclipse & IntelliJ IDEA
 .classpath
 .settings/
-.idea
+/.idea
 .idea/
 *.iws
 *.iml
@@ -31,6 +31,7 @@
 .project
 .flattened-pom.xml
 /out
+*.iml
 
 # Maven
 target/
