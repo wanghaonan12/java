@@ -17,7 +17,7 @@ public class MyException extends Exception {
     }
 
     /**
-     * @return toString方法时返回异常时的提示信息
+     * @return toString方法是抛出异常时的提示信息
      */
     @Override
     public String toString() {
