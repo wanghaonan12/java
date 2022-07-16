@@ -2,7 +2,7 @@ package Thread.createThread;
 
 /**
  * @author : WangRich
- * @Description : 多线程购买火车票方法
+ * @Description : description
  * @date : 2022/7/4 15:20
  */
 public class BuyTranTicket extends Thread {
