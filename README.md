@@ -1,8 +1,9 @@
 ## 目录
 - CustomException 自定义异常
+- Shininess 反射
+- StringCommonMethod String与StringBuffer，StringBuilder常用方法总结
 - Thread 多线程
 - VariableArray 可变参数
-- StringCommonMethod String与StringBuffer，StringBuilder常用方法总结
 
 
 ## gitignore使用规则
